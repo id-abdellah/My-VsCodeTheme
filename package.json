@@ -1,0 +1,21 @@
+{
+  "name": "mohamed-theme",
+  "displayName": "Mohamed-Theme",
+  "description": "This-is-my-first-theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mohamed-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mohamed-theme-color-theme.json"
+      }
+    ]
+  }
+}
