@@ -13,7 +13,7 @@
 		"editor.selectionBackground": "#007acc",
 		"statusBar.background": "#272930",
 		"statusBar.border": "#000000ab",
-		"sideBar.background": "#272930"
+		"sideBar.background": "#272930",
 	},
 	"tokenColors": [
 		{
