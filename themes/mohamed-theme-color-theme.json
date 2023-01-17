@@ -8,7 +8,6 @@
 		"activityBar.background": "#23262e",
 		"editorGroupHeader.tabsBackground": "#23262e",
 		"tab.activeBackground": "#23262e",
-		// "tab.unfocusedActiveBackground": "#ff0000",
 		"editor.selectionHighlightBackground": "#ffffff31",
 		"editor.selectionBackground": "#007acc",
 		"statusBar.background": "#272930",
